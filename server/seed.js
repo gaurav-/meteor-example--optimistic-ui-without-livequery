@@ -1,0 +1,1 @@
+Likeables.upsert({ _id: 'abc' }, { likes: 0 });
